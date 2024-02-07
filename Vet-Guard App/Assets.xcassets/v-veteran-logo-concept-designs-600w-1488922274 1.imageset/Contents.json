@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "v-veteran-logo-concept-designs-600w-1488922274 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
